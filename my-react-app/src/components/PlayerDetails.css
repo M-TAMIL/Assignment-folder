@@ -1,0 +1,14 @@
+.player-details {
+  text-align: left;
+  flex: 1;
+}
+
+.player-details h3 {
+  margin: 0 0 8px;
+  color: #222;
+}
+
+.player-details p {
+  margin: 4px 0;
+  color: #555;
+}
